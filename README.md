@@ -1,6 +1,6 @@
 ### *Prazer, me chamo Carlos Nascimento!* 🚀
 
-- Conhecendo a programação através do startalura ![Alura](https://www.alura.com.br/?_gl=1*1snc2yc*_ga*MjI0MzIxODA5LjE3MTA5NjIxODM.*_ga_1EPWSW3PCS*MTcxNDY4NzAyOS4yMy4xLjE3MTQ2ODgzNjAuMC4wLjA.)
+- Conhecendo a programação através do startalura [Alura](https://www.alura.com.br/?_gl=1*1snc2yc*_ga*MjI0MzIxODA5LjE3MTA5NjIxODM.*_ga_1EPWSW3PCS*MTcxNDY4NzAyOS4yMy4xLjE3MTQ2ODgzNjAuMC4wLjA.)
 - A cada aula, conheço mais sobre a linguagem JavaScript
 - Esta conta será utilizada para o compartilhamento dos meus projetos.
 
